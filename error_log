@@ -1,0 +1,24 @@
+[14-Apr-2021 10:59:41 America/Santiago] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; FieldParams has a deprecated constructor in /home/robertor/public_html/portaldoc/modules/fieldtestimonials/libs/Params.php on line 12
+[14-Apr-2021 12:43:15 America/Santiago] PHP Fatal error:  Class Pd_buscador_top contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (PrestaShop\PrestaShop\Core\Module\WidgetInterface::renderWidget, PrestaShop\PrestaShop\Core\Module\WidgetInterface::getWidgetVariables) in /home/robertor/public_html/portaldoc/modules/pd_buscador_top/pd_buscador_top.php on line 33
+[14-Apr-2021 12:43:23 America/Santiago] PHP Fatal error:  Class Pd_buscador_top contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (PrestaShop\PrestaShop\Core\Module\WidgetInterface::renderWidget, PrestaShop\PrestaShop\Core\Module\WidgetInterface::getWidgetVariables) in /home/robertor/public_html/portaldoc/modules/pd_buscador_top/pd_buscador_top.php on line 33
+[14-Apr-2021 12:44:55 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined method Pd_buscador_top::updateUrl() in /home/robertor/public_html/portaldoc/modules/pd_buscador_top/pd_buscador_top.php:254
+Stack trace:
+#0 /home/robertor/public_html/portaldoc/modules/pd_buscador_top/pd_buscador_top.php(236): Pd_buscador_top->getWidgetVariables('displayHome', Array)
+#1 /home/robertor/public_html/portaldoc/classes/Hook.php(971): Pd_buscador_top->renderWidget('displayHome', Array)
+#2 /home/robertor/public_html/portaldoc/classes/Hook.php(923): HookCore::coreRenderWidget(Object(Pd_buscador_top), 'displayHome', Array)
+#3 /home/robertor/public_html/portaldoc/controllers/front/IndexController.php(39): HookCore::exec('displayHome')
+#4 /home/robertor/public_html/portaldoc/classes/controller/Controller.php(281): IndexControllerCore->initContent()
+#5 /home/robertor/public_html/portaldoc/classes/Dispatcher.php(511): ControllerCore->run()
+#6 /home/robertor/public_html/portaldoc/index.php(28): DispatcherCore->dispatch()
+#7 {main}
+  thrown in /home/robertor/public_html/portaldoc/modules/pd_buscador_top/pd_buscador_top.php on line 254
+[15-Apr-2021 22:58:50 America/Santiago] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/robertor/public_html/portaldoc/var/cache/prod/smarty/compile/b3/fa/d1/b3fad1a960b7a24bc3e21948ce01a6dc308789bb_2.module.pdbuscadorpdbuscador.tpl.php:111
+Stack trace:
+#0 /home/robertor/public_html/portaldoc/vendor/smarty/smarty/libs/sysplugins/smarty_template_resource_base.php(123): content_6078fd6a4326a4_24527361(Object(Smarty_Internal_Template))
+#1 /home/robertor/public_html/portaldoc/vendor/smarty/smarty/libs/sysplugins/smarty_template_compiled.php(114): Smarty_Template_Resource_Base->getRenderedTemplateCode(Object(Smarty_Internal_Template))
+#2 /home/robertor/public_html/portaldoc/vendor/smarty/smarty/libs/sysplugins/smarty_internal_template.php(216): Smarty_Template_Compiled->render(Object(Smarty_Internal_Template))
+#3 /home/robertor/public_html/portaldoc/vendor/smarty/smarty/libs/sysplugins/smarty_internal_templatebase.php(232): Smarty_Internal_Template->render(false, 0)
+#4 /home/robertor/public_html/portaldoc/vendor/smarty/smarty/libs/s in /home/robertor/public_html/portaldoc/var/cache/prod/smarty/compile/b3/fa/d1/b3fad1a960b7a24bc3e21948ce01a6dc308789bb_2.module.pdbuscadorpdbuscador.tpl.php on line 111
+[16-Apr-2021 00:36:46 America/Santiago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/robertor/public_html/portaldoc/modules/pd_buscador/pd_buscador.php on line 332
+[16-Apr-2021 00:36:48 America/Santiago] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/robertor/public_html/portaldoc/modules/pd_buscador/pd_buscador.php on line 332
+[19-Apr-2021 23:20:43 America/Santiago] PHP Fatal error:  Class Pd_menuaux contains 2 abstract methods and must therefore be declared abstract or implement the remaining methods (PrestaShop\PrestaShop\Core\Module\WidgetInterface::renderWidget, PrestaShop\PrestaShop\Core\Module\WidgetInterface::getWidgetVariables) in /home/robertor/public_html/portaldoc/modules/pd_menuaux/pd_menuaux.php on line 33

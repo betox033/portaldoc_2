@@ -1,0 +1,1 @@
+# PortalDoc - Logo Principal

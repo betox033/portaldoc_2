@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Las imágenes en PrestaShop fundamentales para vender más</title>
+    <link>https://www.prestashop.com/es/blog/importancia-imagenes-ecommerce</link>
+    <description>El auge del comercio digital es una realidad incuestionable.</description>
+     <pubDate>Fri, 16 Apr 2021 15:37:05 +0200</pubDate>
+ <dc:creator>Dani Cerdán</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/importancia-imagenes-ecommerce</guid>
+  </item>
+  <item>
+    <title>Por qué la gestión de consentimientos también afecta a tu tienda online</title>
+    <link>https://www.prestashop.com/es/blog/consentimientos-tienda-online</link>
+    <description>Todos lo conocemos: El banner de cookies que nos da la bienvenida desde hace un tiempo cada vez que abrimos una página web. Pero, ¿por qué necesitas un banner de esos?</description>
+     <pubDate>Wed, 14 Apr 2021 14:50:21 +0200</pubDate>
+ <dc:creator>Hanna Waldenmaier ES</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/consentimientos-tienda-online</guid>
+  </item>
+  <item>
+    <title>El comercio electrónico en Alemania: Oportunidades y desafíos en plena pandemia de COVID-19</title>
+    <link>https://www.prestashop.com/es/blog/oportunidades-desafios-ecommerce</link>
+    <description>La pandemia ha acelerado la transformación digital y ha impulsado el crecimiento del comercio electrónico en todo el mundo.</description>
+     <pubDate>Mon, 12 Apr 2021 17:57:07 +0200</pubDate>
+ <dc:creator>Océane Juste</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/oportunidades-desafios-ecommerce</guid>
+  </item>
+  <item>
+    <title>Mejorar el rendimiento del ecommerce mediante pagos fraccionados en línea</title>
+    <link>https://www.prestashop.com/es/blog/ecommerce-pagos-fraccionados</link>
+    <description>Clearpay, el nuevo método de pago flexible para tiendas online ha llegado a España con mucha fuerza.</description>
+     <pubDate>Fri, 09 Apr 2021 14:07:09 +0200</pubDate>
+ <dc:creator>Ignacio González</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ecommerce-pagos-fraccionados</guid>
+  </item>
+  <item>
+    <title>El packaging: un elemento mucho más esencial de lo que creemos en la experiencia de compra</title>
+    <link>https://www.prestashop.com/es/blog/packaging-experiencia-compra</link>
+    <description>El packaging es un elemento fundamental en la mercadotecnia actual, tanto convencional como online, donde está cobrando especial relevancia por la llamada </description>
+     <pubDate>Fri, 09 Apr 2021 09:47:33 +0200</pubDate>
+ <dc:creator>Dani Cerdán</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/packaging-experiencia-compra</guid>
+  </item>
+  <item>
+    <title>Mobile Shopping en PrestaShop: cómo enfocar tu negocio online para mobile</title>
+    <link>https://www.prestashop.com/es/blog/mobile-shopping-prestashop</link>
+    <description>El smartphone es un medio que ha llegado para quedarse, y no solo eso, sino que tiene todos los números para convertirse en el principal medio para acceder a Inter</description>
+     <pubDate>Thu, 01 Apr 2021 16:40:54 +0200</pubDate>
+ <dc:creator>Dani Cerdán</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/mobile-shopping-prestashop</guid>
+  </item>
+  <item>
+    <title>PrestaShop y Facebook, la unión que cambiará el social commerce</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-facebook-social-commerce</link>
+    <description>PrestaShop es una plataforma que brinda siempre a las empresas los mejores recursos tecnológicos y soluciones de vanguardia para apoyar el crecimi</description>
+     <pubDate>Fri, 26 Mar 2021 17:49:37 +0100</pubDate>
+ <dc:creator>Dani Cerdán</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-facebook-social-commerce</guid>
+  </item>
+  <item>
+    <title>Gastos de envío gratis en eCommerce, ¿cómo los aplico en mi tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/gastos-de-envio-gratuitos-que-estrategia-adoptar</link>
+    <description>Cada vez en mayor medida, los grandes players del eCommerce mundial marcan el camino a seguir para los pequeños comercios online.</description>
+     <pubDate>Fri, 19 Mar 2021 13:32:52 +0100</pubDate>
+ <dc:creator>Jorge González Marcos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/gastos-de-envio-gratuitos-que-estrategia-adoptar</guid>
+  </item>
+  <item>
+    <title>GAM Online: venta y subasta de maquinaria nueva y de ocasión en un mismo eCommerce</title>
+    <link>https://www.prestashop.com/es/blog/gam-online</link>
+    <description>¿Qué es GAM y GAM Online? </description>
+     <pubDate>Thu, 11 Mar 2021 18:47:11 +0100</pubDate>
+ <dc:creator>Visualit</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/gam-online</guid>
+  </item>
+  <item>
+    <title>PrestaShop Facebook, el nuevo módulo de eCommerce para  vender más </title>
+    <link>https://www.prestashop.com/es/blog/prestashop-facebook</link>
+    <description>Los efectos de la pandemia han tenido muchos impactos en la vida y los hábitos de las personas.</description>
+     <pubDate>Thu, 04 Mar 2021 19:12:46 +0100</pubDate>
+ <dc:creator>Alejandro Ramos</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-facebook</guid>
+  </item>
+  </channel>
+</rss>

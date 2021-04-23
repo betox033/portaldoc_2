@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>pd_logo</name>
+	<displayName><![CDATA[PortalDoc - Logo Principal]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Muestra el logo del sitio en la parte superior izquierda del sitio.]]></description>
+	<author><![CDATA[BoxProject - Roberto Rodriguez]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
